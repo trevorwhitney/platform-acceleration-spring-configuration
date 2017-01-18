@@ -8,3 +8,5 @@ eureka:
 security:
   basic:
     enabled: false
+
+billingQueue: billing
