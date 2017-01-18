@@ -11,3 +11,6 @@ security:
 management:
   security:
     enabled: false
+
+billingQueue: billing
+
